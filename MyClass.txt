@@ -1,0 +1,2 @@
+className=com.yrd.reflect02.Student
+methodName=method2
